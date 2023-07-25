@@ -1,25 +1,25 @@
 # capstoneproject
 
 ## URLS
-  ### Category
+### Category
 * create/category
 * update/<str:pk>/category
 * delete/<str:pk>/category
 
-  ### Menu
+### Menu
 * create/menu
 * update/<str:pk>/menu
 * delete/<str:pk>/menu
 
-  ### Cart
+### Cart
 * create/cart
 * delete/<str:pk>/cart
 
-  ### Bookings
+### Bookings
 * create/bookings
 * update/<str:pk>/bookings
 * delete/<str:pk>/bookings
 
-  ### Delivery
+### Delivery
 * create/delivery
 * update/<str:pk>/delivery
