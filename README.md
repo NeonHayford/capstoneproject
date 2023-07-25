@@ -23,3 +23,7 @@
 ### Delivery
 * create/delivery
 * update/<str:pk>/delivery
+
+## Django Admin
+* username: hayfordlumorvi
+* password: @!$trYWw
